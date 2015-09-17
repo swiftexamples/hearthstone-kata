@@ -4,9 +4,7 @@ Note: this kata was originally published by: http://codingdojo.org/cgi-bin/index
 
 In this Kata you will be implementing a rudimentary two-player trading card game. The rules are loosely based on Blizzard Hearthstone (http://us.battle.net/hearthstone/en/) which itself is an already much simpler and straight-forward game compared to other TCGs like Magic: The Gathering (http://www.wizards.com/magic/).
 
-Difficulty: Medium/Hard?
-
-Good for teaching: Test Doubles, Mocking, TDD, Refactoring, Clean Code
+Difficulty: Medium
 
 ## Preparation
 
